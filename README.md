@@ -21,6 +21,8 @@ N/A
 
 GET, POST, PUT, and DELETE routes are established for each table within the database. Example: /api/category will return a JSON files of all categories.
 
+[Example Video](https://youtu.be/PYki0P3OtBY)
+
 ## Tests
 
 N/A
